@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+}
+
+div.pai-roleta{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div.roleta-exercicios{
+    background-color: rgb(255, 255, 255);
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+}
