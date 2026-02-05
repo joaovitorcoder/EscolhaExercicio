@@ -8,6 +8,10 @@
     .container-btn-girar{
         justify-content: center !important;
     }
+    .roleta-exercicios{
+        height: 450px !important;
+        width: 450px !important;
+    }
 }
 
 body{
