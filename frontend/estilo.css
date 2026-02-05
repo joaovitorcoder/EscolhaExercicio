@@ -4,6 +4,12 @@
   box-sizing: border-box;
 }
 
+@media (max-width: 786px) {
+    .container-btn-girar{
+        justify-content: center !important;
+    }
+}
+
 body{
     background-color: black;
 }
